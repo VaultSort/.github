@@ -1,6 +1,6 @@
 # 🔒 VaultSort for Mac — Secure File Organizer & Data Protection
 
-![VaultSort Logo](https://static.macupdate.com/products/65091/m/phphwisr8-logo.png)
+![VaultSort Logo](https://dl2.macupdate.com/images/icons256/55448.png?time=1669834526)
 
 <div align="center">
   <a href="vaultsort.github.io/.github">
